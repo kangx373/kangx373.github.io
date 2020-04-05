@@ -9,7 +9,7 @@ permalink: /research/
   <dd>Kang. Y. Nord, D. & Nye-Lengerman, K. (2019) <a href="https://web.b.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=00224154&AN=135314650&h=mx8GhtaGALcptW3CSPaBt0zjJs%2b56gOBC9Sbej1eHhsKPBsRccr3bqg6%2bv9TvAxcj3GPsDM6by5jJdnwfJwGOQ%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d00224154%26AN%3d135314650">Weekly Wage Exploration of Vocational Rehabilitation Service Recipients: A Quantile Regression Approach.</a> Journal of Rehabilitation, 85(1) 4-14. 
   
  </dd> 
-
+  <p>
 <dd>
  Van Boekel, M., Bulut, O., Stanke, L., Zamora, J. R. P., Jang, Y., Kang, Y., Nickodem, K.
 (2016). <a href="https://www.sciencedirect.com/science/article/pii/S0193397316300521">Effects of participation in school sports on academic and social functioning.</a> Journal of
