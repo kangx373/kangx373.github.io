@@ -1,12 +1,9 @@
+ 
 ---
-layout: archive
+layout: page
+title: Research
 permalink: /research/
-title: "Research"
-author_profile: true
-header:
-	image:  "/images/screenshot.png"
 ---
-   
 
 <dl>
 	<dt><b>Publications</b></dt>
@@ -74,15 +71,4 @@ Metropolitan Area</a> Journal of Economics, Race, and Policy 1(2):47-59</dd>
   <li><a href="https://scholar.google.com/citations?user=MJPMkLAAAAAJ&hl=en" target="_blank" style="color:#2B72B8">Google Scholar</a></li>
   <li><a href="https://www.researchgate.net/profile/Won_Fy_Lee" target="_blank" style="color:#2B72B8">ResearchGate</a></li> 
 </ul>
- </dd>
-
-{% include base_path %}
-{% include group-by-array collection=site.posts field="tags" %}
-
-{% for tag in group_names %}
-  {% assign posts = group_items[forloop.index0] %}
-  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
-  {% for post in posts %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endfor %}
+ </dd> 
