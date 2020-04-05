@@ -4,5 +4,4 @@ title: About
 permalink: /about/
 ---
 
-<embed src="https://raw.githubusercontent.com/kangx373/kangx373.github.io/master/assets/images/YS_CV_short.pdf" type="application/pdf" width="900px" height="650px"/>
- 
+<embed src="https://leex5089.github.io/images/YS_CV_short.pdf" type="application/pdf" width="900px" height="650px"/>
