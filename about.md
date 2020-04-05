@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+<embed src="https://leex5089.github.io/images/wflee_cv.pdf" type="application/pdf" width="900px" height="650px"/>
