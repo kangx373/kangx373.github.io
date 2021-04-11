@@ -61,3 +61,5 @@ exclude:
   - "script"
   - "vendor"
   - "thinkspace.gemspec"
+
+theme: jekyll-theme-architect
