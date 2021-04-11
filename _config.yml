@@ -1,9 +1,9 @@
 # Site settings
 title_left    : "Youngsoon"
 title_right   : " Kang" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
+description   : "My Website"
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : https://kangx373.github.io # site url
+url           : https://kangx373.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
@@ -14,7 +14,7 @@ disqus_shortname  : ""
 postshare_enabled : false
 
 # Build settings
-#permalink   : /:year/:title/
+permalink   : /:year/:title/
 markdown    : kramdown
 highlighter : rouge
 
@@ -38,9 +38,10 @@ plugins:
 # navbar pages
 navbar:
   - slug : about
-   # title: About 
+    title: About
   - slug : research
-   # title: Research 
+    title: Research
+
 exclude:
   - "gulp"
   - "node_modules"
