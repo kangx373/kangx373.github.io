@@ -6,6 +6,10 @@ keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thin
 url           : https://kangx373.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
+analytics:
+  provider: "google-universal"
+  google:
+  tracking_id: "G-1T1PS6TMTF"
 
 google_analytics  : G-1T1PS6TMTF
 twitter_username  : ""
